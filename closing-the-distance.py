@@ -16,4 +16,3 @@ hero.attack(enemy2)
 
 hero.moveDown()
 hero.moveRight()
-
