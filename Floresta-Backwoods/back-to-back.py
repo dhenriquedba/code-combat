@@ -1,4 +1,4 @@
-#Patrulhe as entradas da aldeia, mas fique na defensiva.
+# Patrulhe as entradas da aldeia, mas fique na defensiva.
 
 # Fique no meio e defenda!
 
